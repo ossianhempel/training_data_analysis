@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hey there! Welcome to my personal workout data analysis project. If you've ever been curious about how workouts evolve over time or what kind of insights you can get from your sweat sessions, you're in the right place. I've been using the RepCount app since 2016 to keep tabs on my workouts, and now it's time to put that data to work.
+Welcome to my personal workout data analysis project. If you've ever been curious about how workouts evolve over time or what kind of insights you can get from your sweat sessions, you're in the right place. I've been using the RepCount app since 2016 to keep tabs on my workouts, and now it's time to put that data to work.
 
 ## Objectives
 
